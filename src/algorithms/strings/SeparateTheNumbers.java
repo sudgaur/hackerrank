@@ -1,4 +1,4 @@
-package algorithms.string;
+package algorithms.strings;
 
 import java.math.BigInteger;
 import java.util.Scanner;
